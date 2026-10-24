@@ -2,8 +2,6 @@
 
 <img width="100%" alt="Nitharsana Kumaresan — Applied Data Science" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1222,50:28446a,100:44cba6&height=205&section=header&text=Nitharsana%20Kumaresan&fontSize=41&fontColor=ffffff&fontAlignY=38&desc=APPLIED%20DATA%20SCIENCE%20%E2%80%A2%20PYTHON%20%E2%80%A2%20SQL%20%E2%80%A2%20EXCEL&descSize=14&descAlignY=61" />
 
-<img width="154" height="154" alt="GitHub profile portrait" src="[https://github.com/YOUR_GITHUB_USERNAME.png](https://avatars.githubusercontent.com/u/347502465?v=4&size=154" />
-
 ### Hi, I'm Nitharsana 👋
 
 **MSc Applied Data Science Student** at **SRM Institute of Science and Technology**  
