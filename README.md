@@ -93,7 +93,7 @@ Explored social engineering and common phishing methods using the Social Enginee
 
 I'm always interested in learning, collaborating and connecting with people who enjoy data and technology.
 
-[**✉️ Email me**](mailto:nitharsanakumaresan05@gmail.com) &nbsp; · &nbsp; [**🌐 Visit my portfolio**](https://YOUR_GITHUB_USERNAME.github.io/)
+[**✉️ Email me**](mailto:nitharsanakumaresan05@gmail.com) &nbsp; · &nbsp; [**🌐 Visit my portfolio**](https://nitharsanakumaresan.github.io/)
 
 <sub>Made with curiosity • Nitharsana Kumaresan</sub>
 
