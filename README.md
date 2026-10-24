@@ -1,18 +1,8 @@
-<!--
-GITHUB PROFILE SETUP
-1. Create a PUBLIC repository whose name is EXACTLY your GitHub username.
-2. Put this README.md in the repository ROOT (not inside a subfolder).
-3. Find/replace YOUR_GITHUB_USERNAME with your real username.
-4. Publish the separate index.html in the ROOT of a public repository named YOUR_GITHUB_USERNAME.github.io.
-5. On the website repo: Settings > Pages > Deploy from a branch > main > /(root).
-This README does not require any extra local image or asset files.
--->
-
 <div align="center">
 
 <img width="100%" alt="Nitharsana Kumaresan — Applied Data Science" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1222,50:28446a,100:44cba6&height=205&section=header&text=Nitharsana%20Kumaresan&fontSize=41&fontColor=ffffff&fontAlignY=38&desc=APPLIED%20DATA%20SCIENCE%20%E2%80%A2%20PYTHON%20%E2%80%A2%20SQL%20%E2%80%A2%20EXCEL&descSize=14&descAlignY=61" />
 
-<img width="154" height="154" alt="GitHub profile portrait" src="https://github.com/YOUR_GITHUB_USERNAME.png?size=154" />
+<img width="154" height="154" alt="GitHub profile portrait" src="[https://github.com/YOUR_GITHUB_USERNAME.png](https://avatars.githubusercontent.com/u/347502465?v=4&size=154" />
 
 ### Hi, I'm Nitharsana 👋
 
